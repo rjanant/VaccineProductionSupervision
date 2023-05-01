@@ -3,3 +3,12 @@ Blockchain Domain is a system of recording information in a way that makes it di
 
 https://github.com/rjanant/VaccineProductionSupervision/blob/main/Output/Login.png?raw=true![image](https://user-images.githubusercontent.com/53167490/235475677-376dc8d1-239d-46ab-b772-aa1a8c63708f.png)
 
+Production Page:
+<img width="824" alt="Production" src="https://user-images.githubusercontent.com/53167490/235476012-435e5149-b875-4e43-9f09-3fa38e91e8a1.png">
+
+
+Methodology: 
+<img width="876" alt="ProposedSolution" src="https://user-images.githubusercontent.com/53167490/235476065-20d9fb93-df05-4eca-af0f-1cb3546c6696.png">
+
+Blockchain Report Generated (Unique Inoculation ID and Hash generated for each block added to the chain):
+<img width="774" alt="blockchain_report" src="https://user-images.githubusercontent.com/53167490/235476268-c5cfb281-d30e-4e00-abbc-d551404c2991.png">
