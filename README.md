@@ -21,3 +21,6 @@ Methodology:
 <img width="876" alt="ProposedSolution" src="https://user-images.githubusercontent.com/53167490/235476065-20d9fb93-df05-4eca-af0f-1cb3546c6696.png">
 
 
+
+
+<NOTE: Methodology image is taken from a research work available on the internet. Parts of the project design is inspired from the works mentioned in the that research paper and also from a few other similar research works. >
